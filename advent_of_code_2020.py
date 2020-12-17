@@ -15,6 +15,7 @@ import Day13
 import Day14
 import Day15
 import Day16
+import Day17
 
 
 def main():
@@ -35,6 +36,7 @@ def main():
     Day14.run()
     Day15.run()
     Day16.run()
+    Day17.run()
 
 
 if __name__ == "__main__":
